@@ -10,18 +10,25 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Prathamesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prathamesh-sardeshmukh/)
+[<img align="left" alt="Prathamesh | LinkedIn" width="35" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" />](https://www.linkedin.com/in/prathamesh-sardeshmukh/)
 
-<br />
+<br/>
 
+ 
+ 
+ ---
+ 
 ### Come do check out my ML blogs:
-[<img align="left" alt="Prathamesh | Medium" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" />](https://medium.com/@pratham.sardeshmukh)
+[<img align="left" alt="Prathamesh | Medium" width="50px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" />](https://medium.com/@pratham.sardeshmukh)
 
-<br />
+<br/>
+<br/>
+
+
 
 ### Skills:
-![alt text](https://github.com/prathamsss/prathamsss/blob/main/skills.png)
 
+<img src="https://github.com/prathamsss/prathamsss/blob/main/skills.png" width="50%" height="50%">
 
 ---
 
