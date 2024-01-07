@@ -1,7 +1,7 @@
 ### Hi there, I'm Prathamesh 👋
 
 
-#### I'm a Machine Learning Engineer. 🔭 I develop ML especially for robotics to improve it's perception ability.
+#### I'm a Machine Learning Engineer. 🔭 I develop Computer Vision especially for robotics to improve it's perception ability.
 
 - 🔭 I’m also working building data flow pipelines in ROS.
 - I love interacting with different sensors
